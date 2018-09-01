@@ -1,0 +1,6 @@
+{
+  "name": "quoteDS",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/quote.json"
+}

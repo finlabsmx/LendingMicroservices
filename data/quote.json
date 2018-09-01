@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Quote": 127
+  },
+  "models": {
+    "Quote": {
+      "00000123": "{\"id\":\"00000123\",\"amount\":10,\"interestRate\":0,\"amountData1\":0,\"amountData2\":0,\"amountData3\":0,\"prospectFirstName\":\"Maria\",\"prospectLastName\":\"Agudelo\",\"prospectEmail\":\"agudelo@correo.com\",\"prospectMobilePhone\":\"525543426578\",\"incomeAmount\":0,\"incomeAmount1\":0,\"incomeAmount2\":0,\"expensesAmount\":0,\"expensesAmount1\":0,\"expensesAmount2\":0}",
+      "00000124": "{\"id\":\"00000124\",\"amount\":10000,\"interestRate\":0.2,\"amountData1\":0,\"amountData2\":0,\"amountData3\":0,\"prospectFirstName\":\"Pedro\",\"prospectLastName\":\"Marquez\",\"prospectEmail\":\"marqeuz@correo.com\",\"prospectMobilePhone\":\"525543426765\",\"incomeAmount\":5000,\"incomeAmount1\":0,\"incomeAmount2\":0,\"expensesAmount\":3000,\"expensesAmount1\":0,\"expensesAmount2\":0}",
+      "00000126": "{\"id\":\"00000126\",\"amount\":31000,\"interestRate\":0.3,\"amountData1\":0,\"amountData2\":0,\"amountData3\":0,\"prospectFirstName\":\"Fer\",\"prospectLastName\":\"Hernandez\",\"prospectEmail\":\"fer@gmail.com\",\"prospectMobilePhone\":\"525543426710\",\"incomeAmount\":60000,\"incomeAmount1\":0,\"incomeAmount2\":0,\"expensesAmount\":40000,\"expensesAmount1\":0,\"expensesAmount2\":0}"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+> finlabslendingapi@1.0.0 prestart /home/cloudthemis/apps/finlabslendingapi
+> npm run build
+
+
+> finlabslendingapi@1.0.0 build /home/cloudthemis/apps/finlabslendingapi
+> lb-tsc
+
+
+> finlabslendingapi@1.0.0 start /home/cloudthemis/apps/finlabslendingapi
+> node .
+
+Server is running at http://10.138.0.2:7777
+Try http://10.138.0.2:7777/ping

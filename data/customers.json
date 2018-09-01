@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Customer": 1235
+  },
+  "models": {
+    "Customer": {
+      "123": "{\"id\":\"123\",\"firstName1\":\"Jhon\",\"firstName2\":\"Bayron\",\"lastName1\":\"Clavijo\",\"lastName2\":\"Freyle\",\"fiscalID\":\"CLJ000001\",\"nationalID\":\"CLJ000ABC\",\"email\":\"jclavijo@sol4it.net\",\"mobilePhone\":\"+5213456788\"}",
+      "1234": "{\"id\":\"1234\",\"firstName1\":\"Jorge\",\"firstName2\":\"\",\"lastName1\":\"Parrado\",\"lastName2\":\"\",\"fiscalID\":\"PAJV000001\",\"nationalID\":\"PAJV000ABC0\",\"email\":\"jparrado@sol4it.net\",\"mobilePhone\":\"+5213456710\"}"
+    }
+  }
+}

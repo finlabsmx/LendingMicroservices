@@ -1,0 +1,6 @@
+{
+  "name": "customerDS",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/customers.json"
+}
